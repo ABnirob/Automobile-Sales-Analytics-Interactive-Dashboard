@@ -62,8 +62,7 @@ This project solves the problem using:
 * Vehicle-wise average sales
 * Advertising expenditure share
 * Unemployment impact
-<img width="1693" height="929" alt="Automobile sales recession dashboard" src="https://github.com/user-attachments/assets/f674a325-d387-4842-9084-0c2e6dbf3545" />
-
+ 
 
 ---
 
@@ -73,7 +72,7 @@ This project solves the problem using:
 * Vehicle performance comparison
 * Advertising distribution
 * Economic indicators
-<img width="1693" height="929" alt="Yearly Report Graph" src="https://github.com/user-attachments/assets/2d49c55c-a9bc-4966-914c-f6b5ca37cb95" />
+ 
 
 
 ---
@@ -82,11 +81,12 @@ This project solves the problem using:
 
 ### 📉 Recession Statistics
 
-![Recession Dashboard](images/recession_dashboard.png)
+![Recession Dashboard]()
 
 ### 📅 Yearly Statistics
 
-![Yearly Dashboard](images/yearly_dashboard.png)
+![Yearly Dashboard](<img width="1693" height="929" alt="Yearly Report Graph" src="https://github.com/user-attachments/assets/9d74da79-d19a-49ba-ba04-80e2bda390fa" />
+)
 
 ---
 
