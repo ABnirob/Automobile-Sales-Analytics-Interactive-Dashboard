@@ -10,6 +10,12 @@
   </a>
   <a href="https://www.linkedin.com/in/md-abul-bashar-nirob/">
     <img src="https://img.shields.io/badge/LinkedIn-Nirob-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://komarev.com/ghpvc/?username=ABnirob&label=Project%20Views&color=blue&style=flat" alt="Project Views" />
+  <img src="https://img.shields.io/badge/Version-2.0-4ECDC4?style=flat&logo=github" alt="Version 2.0" />
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" alt="Python 3.12" />
+  <img src="https://img.shields.io/badge/Dash-2.16-4ECDC4?logo=plotly&logoColor=white" alt="Dash" />
+  <img src="https://img.shields.io/badge/Folium-0.15-77B829?logo=python&logoColor=white" alt="Folium" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
   </a>
 </p>
 
