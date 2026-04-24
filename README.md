@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ABnirob">
-    <img src="https://img.shields.io/badge/GitHub-ABnirob-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/md-abul-bashar-nirob/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nirob-blue?style=for-the-badge&logo=linkedin">
-    <img src="https://komarev.com/ghpvc/?username=ABnirob&label=Project%20Views&color=blue&style=flat" alt="Project Views" />
   <img src="https://img.shields.io/badge/Version-2.0-4ECDC4?style=flat&logo=github" alt="Version 2.0" />
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" alt="Python 3.12" />
   <img src="https://img.shields.io/badge/Dash-2.16-4ECDC4?logo=plotly&logoColor=white" alt="Dash" />
@@ -68,6 +62,8 @@ This project solves the problem using:
 * Vehicle-wise average sales
 * Advertising expenditure share
 * Unemployment impact
+<img width="1693" height="929" alt="Automobile sales recession dashboard" src="https://github.com/user-attachments/assets/f674a325-d387-4842-9084-0c2e6dbf3545" />
+
 
 ---
 
@@ -77,6 +73,8 @@ This project solves the problem using:
 * Vehicle performance comparison
 * Advertising distribution
 * Economic indicators
+<img width="1693" height="929" alt="Yearly Report Graph" src="https://github.com/user-attachments/assets/2d49c55c-a9bc-4966-914c-f6b5ca37cb95" />
+
 
 ---
 
