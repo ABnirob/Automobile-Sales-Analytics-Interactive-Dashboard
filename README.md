@@ -77,16 +77,13 @@ This project solves the problem using:
 
 ---
 
-## 🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview:
 
 ### 📉 Recession Statistics
-
-![Recession Dashboard]()
+<img width="1693" height="929" alt="Automobile sales recession dashboard" src="https://github.com/user-attachments/assets/78c39dbc-9573-49ed-a5e0-d58ccb275ae5" />
 
 ### 📅 Yearly Statistics
-
-![Yearly Dashboard](<img width="1693" height="929" alt="Yearly Report Graph" src="https://github.com/user-attachments/assets/9d74da79-d19a-49ba-ba04-80e2bda390fa" />
-)
+<img width="1693" height="929" alt="Yearly Report Graph" src="https://github.com/user-attachments/assets/3f86d3a9-a929-4424-9024-53ad950ba922" />
 
 ---
 
