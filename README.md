@@ -17,9 +17,7 @@
 
 ## 📌 Executive Summary
 
-This project presents a **comprehensive analysis of automobile sales data**, combining **exploratory data analysis (EDA)** and a **fully interactive dashboard**.
-
-It simulates a real-world **Business Intelligence (BI) solution**, helping stakeholders understand how **economic conditions influence sales performance**.
+This project presents a **comprehensive analysis of automobile sales data**, combining **exploratory data analysis (EDA)** and a **fully interactive dashboard**. It simulates a real-world **Business Intelligence (BI) solution**, helping stakeholders understand how **economic conditions influence sales performance**.
 
 ---
 
